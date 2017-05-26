@@ -20,7 +20,12 @@ class __TwigTemplate_588500f0078fc19c073ac495bbaca883ee8725fc3cf370af975c3119816
 <h1>Listado de Articulos</h1>
 <h2>Listado 222222223333</h2>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h2>SINDY</h2>
+=======
+
+<h1> Salvador Zarate Vazquez </h1>
+>>>>>>> origin/master
 =======
 <h2>fatima</h2>
 >>>>>>> origin/master
@@ -34,6 +39,7 @@ class __TwigTemplate_588500f0078fc19c073ac495bbaca883ee8725fc3cf370af975c3119816
           <th>Chava</th>
     </tr>
     ";
+<<<<<<< HEAD
         // line 18
         $context['_parent'] = (array) $context;
         $context['_seq'] = twig_ensure_traversable((isset($context["articulos"]) ? $context["articulos"] : $this->getContext($context, "articulos")));
@@ -50,6 +56,43 @@ class __TwigTemplate_588500f0078fc19c073ac495bbaca883ee8725fc3cf370af975c3119816
             echo "</td>
         <td>";
             // line 22
+=======
+<<<<<<< HEAD
+        // line 15
+        $context['_parent'] = (array) $context;
+        $context['_seq'] = twig_ensure_traversable((isset($context["articulos"]) ? $context["articulos"] : $this->getContext($context, "articulos")));
+        foreach ($context['_seq'] as $context["_key"] => $context["articulo"]) {
+            // line 16
+            echo "    <tr>
+        <td>";
+            // line 17
+            echo twig_escape_filter($this->env, $this->getAttribute((isset($context["articulo"]) ? $context["articulo"] : $this->getContext($context, "articulo")), "id"), "html", null, true);
+            echo "</td>
+        <td>";
+            // line 18
+            echo twig_escape_filter($this->env, $this->getAttribute((isset($context["articulo"]) ? $context["articulo"] : $this->getContext($context, "articulo")), "title"), "html", null, true);
+            echo "</td>
+        <td>";
+            // line 19
+=======
+        // line 14
+        $context['_parent'] = (array) $context;
+        $context['_seq'] = twig_ensure_traversable((isset($context["articulos"]) ? $context["articulos"] : $this->getContext($context, "articulos")));
+        foreach ($context['_seq'] as $context["_key"] => $context["articulo"]) {
+            // line 15
+            echo "    <tr>
+        <td>";
+            // line 16
+            echo twig_escape_filter($this->env, $this->getAttribute((isset($context["articulo"]) ? $context["articulo"] : $this->getContext($context, "articulo")), "id"), "html", null, true);
+            echo "</td>
+        <td>";
+            // line 17
+            echo twig_escape_filter($this->env, $this->getAttribute((isset($context["articulo"]) ? $context["articulo"] : $this->getContext($context, "articulo")), "title"), "html", null, true);
+            echo "</td>
+        <td>";
+            // line 18
+>>>>>>> origin/master
+>>>>>>> origin/master
             echo twig_escape_filter($this->env, $this->getAttribute((isset($context["articulo"]) ? $context["articulo"] : $this->getContext($context, "articulo")), "created"), "html", null, true);
             echo "</td>
     </tr>
@@ -58,7 +101,15 @@ class __TwigTemplate_588500f0078fc19c073ac495bbaca883ee8725fc3cf370af975c3119816
         $_parent = $context['_parent'];
         unset($context['_seq'], $context['_iterated'], $context['_key'], $context['articulo'], $context['_parent'], $context['loop']);
         $context = array_intersect_key($context, $_parent) + $_parent;
+<<<<<<< HEAD
         // line 25
+=======
+<<<<<<< HEAD
+        // line 22
+=======
+        // line 21
+>>>>>>> origin/master
+>>>>>>> origin/master
         echo "</table>
 ";
     }
@@ -75,6 +126,14 @@ class __TwigTemplate_588500f0078fc19c073ac495bbaca883ee8725fc3cf370af975c3119816
 
     public function getDebugInfo()
     {
+<<<<<<< HEAD
         return array (  62 => 25,  53 => 22,  49 => 21,  45 => 20,  42 => 19,  38 => 18,  19 => 1,);
+=======
+<<<<<<< HEAD
+        return array (  59 => 22,  50 => 19,  46 => 18,  42 => 17,  39 => 16,  35 => 15,  19 => 1,);
+=======
+        return array (  58 => 21,  49 => 18,  45 => 17,  41 => 16,  38 => 15,  34 => 14,  19 => 1,);
+>>>>>>> origin/master
+>>>>>>> origin/master
     }
 }
