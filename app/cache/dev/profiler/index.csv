@@ -52,6 +52,10 @@ cbb10e,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495813899,
 >>>>>>> origin/master
 =======
 e58d98,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495812909,
+<<<<<<< HEAD
+80ac1e,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495814093,
+=======
+>>>>>>> origin/master
 >>>>>>> origin/master
 f6f18e,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495814537,130a3d
 130a3d,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495814537,
