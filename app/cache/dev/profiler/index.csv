@@ -44,8 +44,12 @@ c30cba,::1,GET,http://localhost/primerapp/web/app_dev.php/ayuda/fisica,148605353
 59790b,::1,GET,http://localhost/nuevo2/web/app_dev.php/,1495811783,
 7dae28,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495811803,
 <<<<<<< HEAD
+<<<<<<< HEAD
 e4c9dc,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495812867,
 a1e774,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495813874,
+=======
+cbb10e,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495813899,
+>>>>>>> origin/master
 =======
 e58d98,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495812909,
 >>>>>>> origin/master
