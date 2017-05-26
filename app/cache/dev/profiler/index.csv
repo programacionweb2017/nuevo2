@@ -41,3 +41,5 @@ c30cba,::1,GET,http://localhost/primerapp/web/app_dev.php/ayuda/fisica,148605353
 1b608d,::1,GET,http://localhost/primerapp/web/app_dev.php/index,1495481395,8cf8af
 8cf8af,::1,GET,http://localhost/primerapp/web/app_dev.php/index,1495481395,
 27b0f3,::1,GET,http://localhost/primerapp/web/app_dev.php/articulos,1495481478,
+59790b,::1,GET,http://localhost/nuevo2/web/app_dev.php/,1495811783,
+7dae28,::1,GET,http://localhost/nuevo2/web/app_dev.php/articulos,1495811803,
